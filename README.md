@@ -1,4 +1,4 @@
-# <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms"><img src="https://img.shields.io/badge/🏠-🎓%20Web developer training Openclassrooms 2022%20🎓-F6BF26" width="750" ></a></p>
+# <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms"><img src="https://img.shields.io/badge/🏠-🎓%20Web developer training Openclassrooms 2022%20🎓-F4511E" width="750" ></a></p>
 
 ![ 1 - Maquette ]()
 
