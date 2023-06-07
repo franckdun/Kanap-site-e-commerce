@@ -7,7 +7,7 @@
   <table>
 	<tr>
 	   <td width="50%"> 
-     <h2>Livrable 5 : Compétences évaluées.</h2>
+     <h2>Livrable 6 : Compétences évaluées.</h2>
      
 * [Valider des données issues de sources externes]()
 	
