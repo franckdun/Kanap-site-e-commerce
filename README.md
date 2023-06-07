@@ -18,7 +18,7 @@
 * [Créer un plan de test pour une application]()
 	   </td>  
 	     <td width="50%">
- <h2 align="center">Kanap-site-e-commerce_L5</h2>
+ <h2 align="center">Kanap-site-e-commerce_L6</h2>
  
 [![img contact](https://github.com/franckdun/La_Panthere_L4/blob/main/img/readme-1.webp)](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
 	   </td>  
