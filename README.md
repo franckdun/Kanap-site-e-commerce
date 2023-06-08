@@ -1,4 +1,4 @@
-# <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms"><img src="https://img.shields.io/badge/🏠-🎓%20Web developer training Openclassrooms 2022%20🎓-F4511E" width="750" ></a></p>
+# <p align="center"><a href="https://github.com/franckdun/Learning-plan_Openclassrooms"><img src="https://img.shields.io/badge/🏠-🎓%20Web developer training Openclassrooms 2022%20🎓-F6BF26" width="750" ></a></p>
 
 ![ 1 - Maquette ](https://github.com/franckdun/Kanap-site-e-commerce_L6/blob/main/DW%2BP5%2B-%2BEtapes%2Bcles.pdf)
 
@@ -8,9 +8,9 @@
 	<tr>
 	   <td width="50%">   
 		   
-# Livrable 6 
+# Livrable 5 
 
-This is the front end and back end server for Project 6 of the Web Developer path.
+This is the front end and back end server for Project 5 of the Web Developer path.
 
 ### Back end Prerequisites ###
 
