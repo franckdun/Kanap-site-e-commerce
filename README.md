@@ -28,7 +28,7 @@ console when the server starts, e.g. `Listening on port 3001`.
 	     <td width="50%">
  <h2 align="center">Kanap-site-e-commerce_L6</h2>
  
-[![img contact](https://github.com/franckdun/La_Panthere_L4/blob/main/img/readme-1.webp)](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
+[![img contact](https://github.com/franckdun/Kanap-site-e-commerce_L6/blob/main/front/images/logo.png)](https://franckdun.github.io/La_Panthere_L4/la_panthere_agence_web_design.html)
 	   </td>  
 	 </tr>
  </table>
