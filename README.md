@@ -6,12 +6,11 @@
 <div align="center">
   <table>
 	<tr>
-	   <td width="50%"> 
-     <h2>Livrable 6</h2>
-     
-# Kanap #
+	   <td width="50%">   
+		   
+# Kanap Livrable 6 
 
-This is the front end and back end server for Project 5 of the Web Developer path.
+This is the front end and back end server for Project 6 of the Web Developer path.
 
 ### Back end Prerequisites ###
 
