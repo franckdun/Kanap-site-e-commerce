@@ -25,7 +25,7 @@ server runs on another port for any reason, this is printed to the
 console when the server starts, e.g. `Listening on port 3001`.
 	   </td>  
 	     <td width="50%">
- <h2 align="center">Kanap-site-e-commerce</h2>
+# Kanap-site-e-commerce
  
 [![img contact](https://github.com/franckdun/Kanap-site-e-commerce_L6/blob/main/front/images/logo.png)](https://github.com/franckdun/Kanap-site-e-commerce_L6/tree/main)
 	   </td>  
