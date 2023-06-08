@@ -8,7 +8,7 @@
 	<tr>
 	   <td width="50%">   
 		   
-# Kanap Livrable 6 
+# Livrable 6 
 
 This is the front end and back end server for Project 6 of the Web Developer path.
 
